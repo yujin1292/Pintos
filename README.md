@@ -1,4 +1,4 @@
-# Pintos
+# Pintos Projects
 Operating System (HAEZ0003)
 
 ## Pintos Project #1 - Pintos 환경 구축 
